@@ -23,7 +23,7 @@ public class subsets {
     }
 
     public static void main(String[] args) {
-        int n=10;
+        int n=3;
         ArrayList<Integer> subS = new ArrayList<>(); 
         subsetsPrint(n, subS);
     }
